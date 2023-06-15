@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36b3c8db-320e-463b-b5fb-16f71c00d4da" name="Changes" comment="feat: create function for copy folder" />
+    <list default="true" id="36b3c8db-320e-463b-b5fb-16f71c00d4da" name="Changes" comment="refactor: create constant for PATH">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fs/rename.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/fs/rename.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686822093450</updated>
-      <workItem from="1686822099229" duration="9282000" />
+      <workItem from="1686822099229" duration="9959000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add function for read file">
       <created>1686826509312</created>
@@ -89,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686832041946</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="refactor: create constant for PATH">
+      <created>1686832339152</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686832339152</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +123,7 @@
     <MESSAGE value="feat: create function for delete file" />
     <MESSAGE value="feat: create function for list.js" />
     <MESSAGE value="feat: create function for copy folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: create function for copy folder" />
+    <MESSAGE value="refactor: create constant for PATH" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: create constant for PATH" />
   </component>
 </project>
