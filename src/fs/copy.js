@@ -10,6 +10,7 @@ const copy = async () => {
 
     if (isFileFolder && !isFileCopyFolder) {
         await fs.cp(folderPath, copyFolderPath, {recursive: true}, (error) => {
+            console.log("Error copy: ", error)
         })
     } else {
         throw new Error("FS operation failed")

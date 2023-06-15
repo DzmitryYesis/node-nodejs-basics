@@ -10,6 +10,7 @@ const rename = async () => {
 
     if (isFileExist && !isRenameFilePathExist) {
         await fs.rename(filePath, renameFilePath, (error) => {
+            console.log("Error rename: ", error)
         })
     } else {
         throw new Error("FS operation failed")

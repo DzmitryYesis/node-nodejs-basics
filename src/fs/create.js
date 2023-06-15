@@ -11,6 +11,7 @@ const create = async () => {
         } else {
             const text = "I am fresh and young"
             fs.writeFile(filePath, text, (error) => {
+                console.log("Error create: ", error)
             })
         }
     })
