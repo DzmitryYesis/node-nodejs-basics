@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36b3c8db-320e-463b-b5fb-16f71c00d4da" name="Changes" comment="refactor: added error message">
+    <list default="true" id="36b3c8db-320e-463b-b5fb-16f71c00d4da" name="Changes" comment="feat: create function for parseEnv">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cli/env.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/cli/env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cli/args.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/cli/args.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.cli:args">
+    <configuration name="cli:args" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="cli:args" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="cli:env" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -54,6 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.cli:args" />
         <item itemvalue="npm.cli:env" />
       </list>
     </recent_temporary>
@@ -66,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686822093450</updated>
-      <workItem from="1686822099229" duration="11423000" />
+      <workItem from="1686822099229" duration="13233000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add function for read file">
       <created>1686826509312</created>
@@ -131,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686833167455</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat: create function for parseEnv">
+      <created>1686834443910</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686834443910</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +176,7 @@
     <MESSAGE value="refactor: create constant for PATH" />
     <MESSAGE value="feat: create function for rename file" />
     <MESSAGE value="refactor: added error message" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: added error message" />
+    <MESSAGE value="feat: create function for parseEnv" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: create function for parseEnv" />
   </component>
 </project>
