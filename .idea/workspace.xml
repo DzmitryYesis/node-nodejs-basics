@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36b3c8db-320e-463b-b5fb-16f71c00d4da" name="Changes" comment="feat: create function for creat file">
+    <list default="true" id="36b3c8db-320e-463b-b5fb-16f71c00d4da" name="Changes" comment="feat: create function for delete file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fs/delete.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/fs/delete.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fs/files/fileToRemove.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686822093450</updated>
-      <workItem from="1686822099229" duration="6698000" />
+      <workItem from="1686822099229" duration="7422000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add function for read file">
       <created>1686826509312</created>
@@ -72,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686827976199</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: create function for delete file">
+      <created>1686829086619</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686829086619</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +98,7 @@
     <MESSAGE value="feat: add function for read file" />
     <MESSAGE value="docs: update Readme.md" />
     <MESSAGE value="feat: create function for creat file" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: create function for creat file" />
+    <MESSAGE value="feat: create function for delete file" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: create function for delete file" />
   </component>
 </project>
