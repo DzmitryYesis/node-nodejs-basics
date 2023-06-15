@@ -2,7 +2,10 @@ import fs from 'node:fs';
 
 const read = async () => {
     // Write your code here
-   await fs.readFile("src/fs/files/fileToRead.txt", (error, data) => {
+
+    const filePath = "src/fs/files/fileToRead.txt"
+
+   await fs.readFile(filePath, (error, data) => {
        if(error){
            throw new Error("FS operation failed")
        }
