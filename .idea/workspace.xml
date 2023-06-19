@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36b3c8db-320e-463b-b5fb-16f71c00d4da" name="Changes" comment="feat: create function for parseEnv">
+    <list default="true" id="36b3c8db-320e-463b-b5fb-16f71c00d4da" name="Changes" comment="feat: create function for parseArgs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cli/args.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/cli/args.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/cjsToEsm.cjs" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/esm.mjs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686822093450</updated>
-      <workItem from="1686822099229" duration="13233000" />
+      <workItem from="1686822099229" duration="15095000" />
+      <workItem from="1686861489580" duration="1761000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add function for read file">
       <created>1686826509312</created>
@@ -149,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686834443910</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="feat: create function for parseArgs">
+      <created>1686836270394</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686836270394</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +173,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: add function for read file" />
@@ -177,6 +186,7 @@
     <MESSAGE value="feat: create function for rename file" />
     <MESSAGE value="refactor: added error message" />
     <MESSAGE value="feat: create function for parseEnv" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: create function for parseEnv" />
+    <MESSAGE value="feat: create function for parseArgs" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: create function for parseArgs" />
   </component>
 </project>
