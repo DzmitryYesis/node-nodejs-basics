@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36b3c8db-320e-463b-b5fb-16f71c00d4da" name="Changes" comment="feat: create function for worker task">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cp/cp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/cp/cp.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2REjMre1LNwvJaoeFZ8KPju5ym6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="18.16.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="18.16.0" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="npm.modules">
+    <configuration name="cli:args" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="cli:args" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="cli:env" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="cli:env" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="modules" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="modules" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.modules" />
+        <item itemvalue="npm.cli:args" />
+        <item itemvalue="npm.cli:env" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36b3c8db-320e-463b-b5fb-16f71c00d4da" name="Changes" comment="" />
+      <created>1686822093450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686822093450</updated>
+      <workItem from="1686822099229" duration="15095000" />
+      <workItem from="1686861489580" duration="17426000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: add function for read file">
+      <created>1686826509312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686826509312</updated>
+    </task>
+    <task id="LOCAL-00002" summary="docs: update Readme.md">
+      <created>1686827169906</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686827169906</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: create function for creat file">
+      <created>1686827976199</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686827976199</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: create function for delete file">
+      <created>1686829086619</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686829086619</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: create function for list.js">
+      <created>1686830057265</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686830057265</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: create function for copy folder">
+      <created>1686832041946</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686832041946</updated>
+    </task>
+    <task id="LOCAL-00007" summary="refactor: create constant for PATH">
+      <created>1686832339152</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686832339152</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: create function for rename file">
+      <created>1686832935182</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686832935182</updated>
+    </task>
+    <task id="LOCAL-00009" summary="refactor: added error message">
+      <created>1686833167454</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1686833167455</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: create function for parseEnv">
+      <created>1686834443910</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686834443910</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat: create function for parseArgs">
+      <created>1686836270394</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686836270394</updated>
+    </task>
+    <task id="LOCAL-00012" summary="refactor: rename file for modules tasks">
+      <created>1687184804496</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1687184804496</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat: refactoring esm.mjs">
+      <created>1687345809452</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1687345809452</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat: create function for calculate hash">
+      <created>1687348191623</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1687348191623</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat: create function for stream read">
+      <created>1687349600720</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1687349600720</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feat: create function for stream write">
+      <created>1687351013389</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1687351013389</updated>
+    </task>
+    <task id="LOCAL-00017" summary="feat: create function for stream transform">
+      <created>1687351994947</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1687351994947</updated>
+    </task>
+    <task id="LOCAL-00018" summary="feat: create function for compress file">
+      <created>1687353100199</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1687353100199</updated>
+    </task>
+    <task id="LOCAL-00019" summary="feat: create function for decompress file">
+      <created>1687353486453</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1687353486453</updated>
+    </task>
+    <task id="LOCAL-00020" summary="feat: create function for worker task">
+      <created>1687355991683</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1687355991683</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: add function for read file" />
+    <MESSAGE value="docs: update Readme.md" />
+    <MESSAGE value="feat: create function for creat file" />
+    <MESSAGE value="feat: create function for delete file" />
+    <MESSAGE value="feat: create function for list.js" />
+    <MESSAGE value="feat: create function for copy folder" />
+    <MESSAGE value="refactor: create constant for PATH" />
+    <MESSAGE value="feat: create function for rename file" />
+    <MESSAGE value="refactor: added error message" />
+    <MESSAGE value="feat: create function for parseEnv" />
+    <MESSAGE value="feat: create function for parseArgs" />
+    <MESSAGE value="refactor: rename file for modules tasks" />
+    <MESSAGE value="feat: refactoring esm.mjs" />
+    <MESSAGE value="feat: create function for calculate hash" />
+    <MESSAGE value="feat: create function for stream read" />
+    <MESSAGE value="feat: create function for stream write" />
+    <MESSAGE value="feat: create function for stream transform" />
+    <MESSAGE value="feat: create function for compress file" />
+    <MESSAGE value="feat: create function for decompress file" />
+    <MESSAGE value="feat: create function for worker task" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: create function for worker task" />
+  </component>
+</project>
