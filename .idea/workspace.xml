@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36b3c8db-320e-463b-b5fb-16f71c00d4da" name="Changes" comment="feat: create function for stream write">
+    <list default="true" id="36b3c8db-320e-463b-b5fb-16f71c00d4da" name="Changes" comment="feat: create function for stream transform">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams/transform.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/transform.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zip/compress.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/zip/compress.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1686822093450</updated>
       <workItem from="1686822099229" duration="15095000" />
-      <workItem from="1686861489580" duration="12494000" />
+      <workItem from="1686861489580" duration="13577000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add function for read file">
       <created>1686826509312</created>
@@ -203,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687351013389</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="feat: create function for stream transform">
+      <created>1687351994947</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1687351994947</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +245,7 @@
     <MESSAGE value="feat: create function for calculate hash" />
     <MESSAGE value="feat: create function for stream read" />
     <MESSAGE value="feat: create function for stream write" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: create function for stream write" />
+    <MESSAGE value="feat: create function for stream transform" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: create function for stream transform" />
   </component>
 </project>
